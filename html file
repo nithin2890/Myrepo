@@ -1,2 +1,5 @@
-Hi!This is my new html page and new test file
-I am having my new system
+class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+} 
